@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658388008731",
+    "firebase_url": "https://gaali-24e93.firebaseio.com",
+    "project_id": "gaali-24e93",
+    "storage_bucket": "gaali-24e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658388008731:android:68d362d4d4ed3a030f1dbe",
+        "android_client_info": {
+          "package_name": "com.mridx.gaali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658388008731-u6k71ttb54mluh4tlp7no36qntie4352.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqVikFY1m2MWbfTKme0CfrK0WoFB2B50k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658388008731-u6k71ttb54mluh4tlp7no36qntie4352.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
